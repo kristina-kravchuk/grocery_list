@@ -3,7 +3,7 @@
 
 This is a super simple Todo App built using React.js 
 
-You can view a live demo of the project here:
+You can view a live demo of the project here:https://delightful-lamington-73098f.netlify.app/
 
 ##Features:
 ➕ Add items
